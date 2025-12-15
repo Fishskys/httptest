@@ -6,4 +6,4 @@
 
 可以自定义param，header和请求体
 
-使用了pyinstaller打包，但是requirements.txt中没有列出该库
+2025.12.15更新：增加log
