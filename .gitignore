@@ -2,5 +2,6 @@ old/
 .vscode/
 build/
 dist/
+log/
 test.py
-httptest.spec
+*.spec
