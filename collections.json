@@ -1,0 +1,33 @@
+[
+    {
+        "name": "img",
+        "method": "GET",
+        "url": "https://wanghun.top/api/jxtx.php",
+        "headers": {
+            "Content-Type": ""
+        },
+        "params": [],
+        "body": "",
+        "auth_type": "No Auth"
+    },
+    {
+        "name": "image",
+        "method": "GET",
+        "url": "https://imgapi.cn/api.php",
+        "headers": {},
+        "params": [],
+        "body": "",
+        "auth_type": "No Auth"
+    },
+    {
+        "name": "cos",
+        "method": "GET",
+        "url": "https://imgapi.cn/cos.php",
+        "headers": {
+            "Content-Type": ""
+        },
+        "params": [],
+        "body": "",
+        "auth_type": "No Auth"
+    }
+]
